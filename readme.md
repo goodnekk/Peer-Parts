@@ -7,9 +7,10 @@ The *Peer Parts* project explores the possibility of a [emergent](http://en.wiki
 
 ### Parametrics and interfaces
 ![parametric](images/parametric.png "parametric")
-![interfaces](images/assembly.png "interfaces")
 
 The system defines parts as parametric geometry. Rather than using a regular grid-like system to facilitate fit between parts, a parametric search engine finds emergent fit. That is, rather than having to search for a certain piece by hand, The software computationally finds fitting parts in the network.
+
+![interfaces](images/assembly.png "interfaces")
 The parametric model increases the chance of inter-operability, because parts are loosly-fitted and scale-indepent.
 This allows the system to be as useful as a toy, for household design, hardware hacking or even architecture.
 
