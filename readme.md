@@ -1,8 +1,9 @@
 # Peer Parts
+(working title)
 An **open source, socio-technical** system for **do-it-yourself** design using **digital manufacturing**.
 
 
-## Philosopy
+## About
 The *Peer Parts* project explores the possibility of a [emergent](http://en.wikipedia.org/wiki/Emergence), distributed [construction set](http://en.wikipedia.org/wiki/Construction_set). Where traditional construction sets rely heavily on standardization and meticulous top-down design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies. The network facilitates a certain resonance between disparate design efforts that enables ultimate inter-operability. There are several ways that this wil work:
 
 ### Parametrics and interfaces
@@ -21,11 +22,11 @@ see also: [universal construction kit](http://fffff.at/free-universal-constructi
 ![3dprint](images/3dprint.png "3dprint")
 
 Components contain information about the possible materials and manufacturing methods that are available for it.
-Production facilities and shops(fab-labs, people with 3d printers, parts-stores, etc) can set up a sourcing node. Bidding in an automatic auction to deliver the part at a certain price, dependent on your location. Price information can be used to generate price estimations for a project.
+Production facilities and shops(fab-labs, people with 3d printers, parts-stores, etc) can set up a sourcing node. Bidding in an automatic auction to deliver the part at a certain price, dependent on your location. Price information can be used to generate price estimations for a project. Alternatively there could simply be a centralized *Peer Parts* webshop.
 
-This information can be linked to databases containing information about local production and sourcing facilities (fab-labs, parts-shops, etc). This allows a user to source all the components as cheaply as possible. Alternatively there could simply be a centralized *Peer Parts* webshop.
-
-### Ad-hocism
-
+## Ad-hocism
+Central to the *Peer Parts* system is the idea that 'design' objects may look great in pictures, reality is often a tingle-tangle mess of lo and hi-fi solutions (i.e. broken smartphones fixed with duct-tape). Rather than trying to design perfect objects, everyday improvised solutions to problems should be embraced. Empowering people over 'designers' to create their own environment by iterative an playful search (trying, retrying, adapting, breaking down).
+Rather than creating singular throw-away units, *Peer Parts* focuses on modular design. Broken parts can be replaced, obsolescent units can be taken apart and reused or sold.
 
 ## Implementation
+*Peer Parts* could be implemented in a number of ways, including a website and editing app. Or an actual peer-to-peer network in a stand alone application.
