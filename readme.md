@@ -4,7 +4,7 @@ An **open source, socio-technical** system for **do-it-yourself** design using *
 
 
 ## About
-The *Peer Parts* project explores the possibility of a [emergent](http://en.wikipedia.org/wiki/Emergence), distributed [construction set](http://en.wikipedia.org/wiki/Construction_set). Where traditional construction sets rely heavily on standardization and meticulous top-down design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies. The network facilitates a certain resonance between disparate design efforts that enables ultimate inter-operability. There are several ways that this wil work:
+The *Peer Parts* project explores the possibility of an [emergent](http://en.wikipedia.org/wiki/Emergence), distributed [construction set](http://en.wikipedia.org/wiki/Construction_set). Where traditional construction sets rely heavily on standardization and meticulous top-down design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies. The network facilitates a certain resonance between disparate design efforts that enables ultimate inter-operability. There are several ways that this wil work:
 
 ### Parametrics and interfaces
 ![parametric](images/parametric.png "parametric")
