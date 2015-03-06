@@ -1,6 +1,4 @@
-This is a collaborative document. In order to make suggestions, join github and fork the repository.
-
-[![Join the chat at https://gitter.im/goodnekk/Peer-Parts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/goodnekk/Peer-Parts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+This is a collaborative document. In order to make suggestions, fork the repository or [![Join the chat at https://gitter.im/goodnekk/Peer-Parts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/goodnekk/Peer-Parts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 # Peer Parts
 
@@ -9,7 +7,9 @@ An **open source, socio-technical** system for **do-it-yourself** design using *
 
 
 ## About
-The *Peer Parts* project explores the possibility of an [emergent](http://en.wikipedia.org/wiki/Emergence), distributed [construction set](http://en.wikipedia.org/wiki/Construction_set). Where traditional construction sets rely heavily on standardization and meticulous ~~top-down~~ design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies. ~~The network facilitates a resonance between disparate design efforts that enables inter-operability.~~
+The *Peer Parts* project explores the possibility of an [emergent](http://en.wikipedia.org/wiki/Emergence), distributed [construction set](http://en.wikipedia.org/wiki/Construction_set). Where traditional construction sets rely heavily on standardization and meticulous top-down design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies. 
+
+~~The network facilitates a resonance between disparate design efforts that enables inter-operability.~~
 
 ### Parametrics and interfaces
 ![parametric](images/parametric.png "parametric")
