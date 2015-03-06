@@ -1,6 +1,9 @@
-# Peer Parts
+This is a collaborative document. In order to make suggestions, join github and fork the repository.
 
 [![Join the chat at https://gitter.im/goodnekk/Peer-Parts](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/goodnekk/Peer-Parts?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
+# Peer Parts
+
 (working title)
 An **open source, socio-technical** system for **do-it-yourself** design using **digital manufacturing**.
 
