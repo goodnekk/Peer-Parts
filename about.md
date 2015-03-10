@@ -1,11 +1,12 @@
 ## How it works
+Peer parts can be seen as an attempt to make a construction set for DIY design. It is meant to be used by non-experts to construct and form their own living environment. 
 
-### Parametrics and interfaces
+Unlike a construction set however, Peer-Parts is not a self-enclosed system of 'official' parts, nor does it enforce any standardization. Instead it attempts to latch on, subvert, incorporate or parasitize any existing components or structures in order to combine them in an ad-hoc way.
 
-Where traditional construction sets rely heavily on standardization and meticulous top-down design, *Peer Parts* proposes a radically different approach. It relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies.
+*Peer Parts* relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies.
 ![parametric](images/parametric.png "parametric")
 
-The system defines parts as parametric geometry. Rather than using a regular grid-like system to facilitate fit between parts, a parametric search engine finds emergent fit. Instead of having to search for a certain piece by hand, the software computationally finds fitting parts in the network.
+Rather than using a regular grid-like pattern to design parts, the system defines parts as **parametric** geometry. This means dimensions can be changed to fit the situation. To facilitate fit between parts, a parametric search engine finds emergent fit. Instead of having to search for a certain piece by hand, the software computationally finds fitting parts in the network.
 
 ![interfaces](images/assemblyNetwork.png "interfaces")
 
@@ -16,10 +17,10 @@ This allows the system to be applicable within many domains, including household
 ![3dprint](images/3dprint.png "3dprint")
 
 Components contain information about the possible materials and manufacturing methods that are available for it.
-Production facilities and shops (fab-labs, people with 3d printers, parts-stores, etc) can set up a sourcing node. ~~Bidding in a virtual marketplace to deliver the part at a certain price, dependent on your location.~~ Price information can be used to generate price estimations for a project. Alternatively there could simply be a centralized *Peer Parts* webshop.
+Production facilities and shops (fab-labs, people with 3d printers, parts-stores, etc) can set up a sourcing node. Each node can bid in a virtual marketplace to deliver the part at a certain price, dependent on your location. Price information can be used to generate price estimations for a project. Alternatively there could simply be a centralized *Peer Parts* webshop.
 
 ### Implementation
-*Peer Parts* could be implemented in a number of ways, including a website and editing app. Another option could be an actual peer-to-peer network in a stand alone application.
+*Peer Parts* could be implemented in a number of ways, including a peer-to-peer network in a stand alone application. Another option could be a website and editing app.
 
 ## Ad-hocism
 Central to the *Peer Parts* system is the idea that 'design' objects may look great in pictures, reality is often a tingle-tangle mess of lo and hi-fi solutions (i.e. broken smartphones fixed with duct-tape). Rather than trying to design perfect objects, everyday improvised solutions to problems should be embraced. Empowering people over 'designers' to create their own environment by iterative and playful search (trying, retrying, adapting, breaking down).
