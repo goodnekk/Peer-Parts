@@ -1,0 +1,26 @@
+html, body {
+        margin: 0;
+        background-color: #F2F2F2;
+        color: #201D1D;
+        font-size: 12pt;
+        font-family: 'Ubuntu';
+    }
+
+
+    @media (max-width: 400px) {
+        #container{
+            max-width: 34em;
+            margin: 0 auto;
+            padding-right: 1em;
+            padding-left: 1em;
+        }
+    }
+
+    @media all and (min-width: 400px) {
+        #container{
+            max-width: 34em;
+            margin: 0 auto;
+            margin-top: 5em;
+            padding-right: 1em;
+            padding-left: 1em;
+        }
