@@ -7,7 +7,7 @@ Unlike a construction set however, Peer-Parts is not a self-enclosed system of '
 *Peer Parts* relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies.
 ![parametric](images/parametric.png "parametric")
 
-Rather than using a regular [grid](https://en.wikipedia.org/wiki/Grid_(graphic_design))-like pattern to design parts, the system defines parts as **procedural** elements. This means objects are stored not only as their geometry and dimensions, but also their structure and semantics. This makes it easy to find [homology](https://en.wikipedia.org/wiki/Homology_(biology)) or isomorphism between parts. In order to find parts that fit together, instead of having to search for a certain piece visually by hand, the software computationally finds fitting parts in the network.
+Rather than using a regular grid-like pattern to design parts, the system defines parts as **procedural** elements. This means objects are stored not only as their geometry and dimensions, but also their structure and semantics. This makes it easy to find homology or isomorphism between parts. In order to find parts that fit together, instead of having to search for a certain piece visually by hand, the software computationally finds fitting parts in the network.
 
 ![interfaces](images/assemblyNetwork.png "interfaces")
 
