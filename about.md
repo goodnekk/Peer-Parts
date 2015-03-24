@@ -1,17 +1,21 @@
 ## How it works
-Peer parts can be seen as an attempt to make a construction set for DIY design. It is meant to be used by non-experts to construct and form their own living environment. 
+Peer parts can be seen as an attempt to make a construction set for DIY design. It is meant to be used by non-experts to (re)construct and form their own living environment.
 
 Unlike a construction set however, Peer-Parts is not a self-enclosed system of 'official' parts, nor does it enforce any standardization. Instead it attempts to latch on, subvert, incorporate or parasitize any existing components or structures in order to combine them in an ad-hoc way.
 
+### Procedural CAD
 *Peer Parts* relies primarily on an open source CAD system that allows anyone to contribute, share and manufacture parts and assemblies.
 ![parametric](images/parametric.png "parametric")
 
-Rather than using a regular grid-like pattern to design parts, the system defines parts as **parametric** geometry. This means dimensions can be changed to fit the situation. To facilitate fit between parts, a parametric search engine finds emergent fit. Instead of having to search for a certain piece by hand, the software computationally finds fitting parts in the network.
+Rather than using a regular [grid](https://en.wikipedia.org/wiki/Grid_(graphic_design))-like pattern to design parts, the system defines parts as **procedural** elements. This means objects are stored not only as their geometry and dimensions, but also their structure and semantics. This makes it easy to find [homology](https://en.wikipedia.org/wiki/Homology_(biology)) or isomorphism between parts. In order to find parts that fit together, instead of having to search for a certain piece visually by hand, the software computationally finds fitting parts in the network.
 
 ![interfaces](images/assemblyNetwork.png "interfaces")
 
-The parametric model increases the chance of inter-operability, because parts are loosly-fitted and scale-indepent.
+The procedural model increases the chance of inter-operability, because parts can be loosly-fitted and are largely independent of scale.
 This allows the system to be applicable within many domains, including household design, hardware hacking or even architecture.
+
+### Tactile Building
+Once the user has found parts using the CAD system, they will have to put them together by hand. The system should allow users to design both by tactile experimentation and by computer. There will need to be research on augmentation between digital and physical realms.
 
 ### Peer-to-peer manufacture
 ![3dprint](images/3dprint.png "3dprint")
