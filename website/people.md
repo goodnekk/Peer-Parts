@@ -4,8 +4,10 @@ We are currently looking for programmers, designers, artists, academics, writers
 
 The current group is:
 
-Marcel Goethals
+**Marcel Goethals**
 
-Maurice van Leeuwen
+**Maurice van Leeuwen**
 
-Johannes Langkamp
+**Johannes Langkamp**
+
+**Robert Wendrich**
